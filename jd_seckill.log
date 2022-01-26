@@ -1,0 +1,28 @@
+2022-01-26 12:45:41,393 - 13592-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:308] - INFO: seckill_by_proc_pool 需登陆后调用，开始扫码登陆
+2022-01-26 12:45:41,862 - 13592-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:177] - INFO: 二维码获取成功，请打开京东APP扫描
+2022-01-26 12:45:42,113 - 13592-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2022-01-26 12:45:44,152 - 13592-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2022-01-26 12:45:46,280 - 13592-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2022-01-26 12:45:48,320 - 13592-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2022-01-26 12:45:50,368 - 13592-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2022-01-26 12:45:52,452 - 13592-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2022-01-26 12:45:54,477 - 13592-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2022-01-26 12:45:56,493 - 13592-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2022-01-26 12:45:58,536 - 13592-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2022-01-26 12:46:00,565 - 13592-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:208] - INFO: 已完成手机客户端确认
+2022-01-26 12:46:00,872 - 13592-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:262] - INFO: 二维码登录成功
+2022-01-26 12:46:01,478 - 13627-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:461] - INFO: 用户:jdlzl_bs
+2022-01-26 12:46:01,486 - 13623-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:461] - INFO: 用户:jdlzl_bs
+2022-01-26 12:46:01,486 - 13625-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:461] - INFO: 用户:jdlzl_bs
+2022-01-26 12:46:01,542 - 13626-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:461] - INFO: 用户:jdlzl_bs
+2022-01-26 12:46:04,811 - 13626-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2022-01-26 12:46:04,811 - 13626-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/timer.py[line:54] - INFO: 正在等待到达设定时间:2022-01-26 09:59:59.500000，检测本地时间与京东服务器时间误差为【1641529166252】毫秒
+2022-01-26 12:46:04,844 - 13623-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2022-01-26 12:46:04,844 - 13623-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/timer.py[line:54] - INFO: 正在等待到达设定时间:2022-01-26 09:59:59.500000，检测本地时间与京东服务器时间误差为【1641529166252】毫秒
+2022-01-26 12:46:04,884 - 13627-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2022-01-26 12:46:04,885 - 13627-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/timer.py[line:54] - INFO: 正在等待到达设定时间:2022-01-26 09:59:59.500000，检测本地时间与京东服务器时间误差为【1641529166252】毫秒
+2022-01-26 12:46:04,921 - 13625-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2022-01-26 12:46:04,921 - 13625-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/timer.py[line:54] - INFO: 正在等待到达设定时间:2022-01-26 09:59:59.500000，检测本地时间与京东服务器时间误差为【1641529166252】毫秒
+2022-01-26 12:46:05,074 - 13624-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:461] - INFO: 用户:jdlzl_bs
+2022-01-26 12:46:05,389 - 13624-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/jd_spider_requests.py[line:462] - INFO: 商品名称:【茅台白酒】飞天 53%vol  500ml 贵州茅台酒（带杯）【行情 报价 价格 评测】-京东
+2022-01-26 12:46:05,389 - 13624-MainThread - /Users/mac/Downloads/seconds_kills/jd_maotai_seckill/timer.py[line:54] - INFO: 正在等待到达设定时间:2022-01-26 09:59:59.500000，检测本地时间与京东服务器时间误差为【1641529166252】毫秒
